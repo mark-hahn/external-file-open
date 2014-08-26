@@ -1,0 +1,13 @@
+{
+  "name": "external-file-open",
+  "main": "./lib/external-file-open",
+  "version": "0.1.0",
+  "description": "Open files outside of project directory.",
+  "repository": "https://github.com/mark-hahn/external-file-open",
+  "license": "MIT",
+  "engines": {
+    "atom": ">0.100.0"
+  },
+  "dependencies": {
+  }
+}
